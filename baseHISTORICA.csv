@@ -1,4 +1,4 @@
-﻿Año_v0;Apellido_v1.1;Nombre_v1.2;Edad_v1.3;Género_v1.4;Fecha.del.hecho_v2.1;Municipio_v2.2;Localidad_v2.2.1;Circunstancia_v2.3;Mecanismo_v2.4;Victimario.Género_v3.3;Institución_v3.4;Grupo.PB_v3.4.1;Rango.jerárquico_v3.5;Sit.Actividad_v3.6;Sit.Servicio_v3.7;Depto.judicial_v4.5;Fuente.Asuntos.Internos_v5.1;Fuente.UFI_v5.2;Fuente.Medios_v5.3;Fuente.CPM_v5.4;Fuente.Procuración_v5.5
+Año;Apellido;Nombre;EdadGénero;Fecha;Municipio;Localidad;Circunstancia;Mecanismo;Victimario;Institución;Grupo;Rango;Actividad;Servicio;Deptojudicial;FuenteAGAI;FuenteUFI;FuenteMedios;FuenteCPM;FuenteProcuración
 2016;Panigua;Esteban;17;Varón;3/1/2016;Lomas de Zamora;;Robo de bienes propios;Arma de fuego reglamentaria;Varón;Policía Federal Argentina;SD;;Sí;No;Lomas de Zamora;No;No;Medios;No;No
 2016;Baez;Rosa Hilda;;Mujer;12/1/2016;Quilmes;;Robo de bienes de terceros;Arma de fuego reglamentaria;Varón;Policía Bonaerense;CP;;Sí;Sí;Quilmes;Asuntos Internos;No;Medios;No;No
 2016;Valdez;Sergio Alejandro;20;Varón;13/1/2016;Ituzaingó;Ituzaingó;Robo de bienes propios;Arma de fuego no reglamentaria;Varón;Policía Bonaerense;Sin dato;Capitán;No;;Morón;Asuntos Internos;No;Medios;No;No
